@@ -1,0 +1,23 @@
+{
+  "name": "gestion",
+  "version": "1.0.0",
+  "description": "api para la gestion de clientes para una empresa de automoviles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "jaime andres peralta charris",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.6.0",
+    "html-pdf": "^2.2.0",
+    "http": "^0.0.1-security",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "stream": "^0.0.2"
+  }
+}
